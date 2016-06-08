@@ -1,2 +1,4 @@
 # hello-world
-FIrst repository to find out how this works. 
+First repository to find out how this works. 
+
+Still just trying to learn. 
